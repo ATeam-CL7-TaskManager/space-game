@@ -1,0 +1,2 @@
+Buy and sell methods work on both planet inventories and the player class.
+** Input handling is a little messed up and we need a method to end the game.
